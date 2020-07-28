@@ -1,8 +1,6 @@
 *.pyc
 *.swp
 *.pkl
-*.pth
 result*
-weights*
 env/
 .ipynb_checkpoints
